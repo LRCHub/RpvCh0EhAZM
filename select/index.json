@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "先駆者",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-02-13T10:43:49.710802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "先駆者",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_先駆者_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "先駆者",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_先駆者_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "先駆者",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/03_先駆者_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "先駆者",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": false,
+      "path": "select/04_先駆者_Hoshimachi_Suisei.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "先駆者",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/05_先駆者_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "先駆者",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/06_先駆者_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "先駆者 / Pathfinder",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/07_先駆者___Pathfinder_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "先駆者",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_先駆者_星街すいせい.txt"
+    }
+  ]
+}
